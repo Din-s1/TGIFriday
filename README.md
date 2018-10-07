@@ -5,7 +5,7 @@
 - No Gems or Extras required.
 - Run `ruby lib/tgiFriday.rb` from the TGIFriday directory.
 
-##User Story
+##  User Story
 
 `Have fun before the weekend.` <br/>
 `Translate to a working javascript version` <br/>
